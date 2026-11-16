@@ -1,0 +1,6 @@
+# Node modules - ignore in all nested folders
+**/node_modules/
+
+# Environment variables - ignore in all nested folders
+**/.env
+**/.env.*
